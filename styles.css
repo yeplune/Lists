@@ -1,4 +1,12 @@
 html {
-    background-color:#658f78;
-    color:aqua;
+    background-color:#8eb7a0;
+    color:rgb(56, 56, 56);
+}
+
+.square-list{
+    list-style-type: square;
+}
+
+.upper-alpha{
+    list-style-type: upper-alpha;
 }
